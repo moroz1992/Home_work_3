@@ -19,3 +19,9 @@ git commit -m "message"
 ```sh
 git log
 ```
+
+## Краткий просмотр истории
+```sh
+git log --oneline
+```
+
