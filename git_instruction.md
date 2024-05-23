@@ -35,3 +35,8 @@ git checkout
 
 ## WEB ссылки
 Заходи (https://vk.com/id112498143)
+
+## Добавить фото
+```sh
+git add namefoto.png
+```
