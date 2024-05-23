@@ -15,3 +15,7 @@ git add
 git commit -m "message"
 ```
 
+## Посмотреть историю коммитов в репозитории
+```sh
+git log
+```
