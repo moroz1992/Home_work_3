@@ -9,3 +9,9 @@ git init
 ```sh
 git add
 ```
+
+## Команда для записи индексированных изменений
+```sh
+git commit -m "message"
+```
+
