@@ -50,3 +50,8 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+
+13. ## Отображение пути разделения и слияния ветвей
+```sh
+git log --online --graph
+```
