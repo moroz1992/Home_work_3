@@ -52,6 +52,7 @@ git branch <branch_name>
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 12. ## Удаление ветки
 ```sh
 git branch -d <branch_name>
@@ -61,3 +62,8 @@ git branch -d <branch_name>
 git log --online --graph
 >>>>>>> branch_3
 ```
+=======
+14. ## Другой способ выделения текста
+
+_можно так_, а __можно и так__ или _даже **так**_
+>>>>>>> branch_4
