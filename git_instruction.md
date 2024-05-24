@@ -5,7 +5,7 @@
 git init
 ```
 
-2. ## Добавить изменения
+2. ## Добавить изменения 
 ```sh
 git add <name_file>
 ```
@@ -49,4 +49,9 @@ git branch
 11. ## Создание новой ветки
 ```sh
 git branch <branch_name>
+```
+
+12. ## Удаление ветки
+```sh
+git branch -d <branch_name>
 ```
