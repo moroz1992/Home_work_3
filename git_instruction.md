@@ -40,3 +40,8 @@ git checkout
 ```sh
 git add namefoto.png
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
