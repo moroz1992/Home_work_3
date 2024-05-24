@@ -27,7 +27,7 @@ git log --oneline
 
 ## Переключение между ветками
 ```sh
-git checkout <branch_name>
+git checkout <name_fale>
 ```
 
 ## Цитирование 
@@ -39,4 +39,9 @@ git checkout <branch_name>
 ## Добавить фото
 ```sh
 git add namefoto.png
+```
+
+Отображение всех веток
+```sh
+git branch
 ```
