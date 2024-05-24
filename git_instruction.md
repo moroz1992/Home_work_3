@@ -27,7 +27,7 @@ git log --oneline
 
 ## Переключение между ветками
 ```sh
-git checkout
+git checkout <name_fale>
 ```
 
 ## Цитирование 
