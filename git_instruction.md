@@ -51,12 +51,7 @@ git branch
 git branch <branch_name>
 ```
 
-12. ## Удаление ветки
-```sh
-git branch -d <branch_name>
-```
 13. ## Отображение пути разделения и слияния ветвей
-```sh
+```
 git log --online --graph
 ```
-
