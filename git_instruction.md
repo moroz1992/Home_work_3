@@ -66,6 +66,12 @@ git log --online --graph
 git clone
 ```
 
+16. ## Выгрузить на удалённый репозиторий
+
+```sh
+git push
+```
+
 
 
 
